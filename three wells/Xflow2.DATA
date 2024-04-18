@@ -1,0 +1,61 @@
+INCLUDE
+'./base.INC' / 
+
+SCHEDULE
+---------------------------------------------------------------------------
+
+RPTSCHED
+	 'FIP=2'  'PRES' 'SGAS' 'RS' 'WELLS=1' /
+
+RPTRST
+	'BASIC=2' KRO KRW KRG /
+
+WELSPECS
+-- Name 	Group	I  J                    Cross Flow
+  'PROD'	'G1' 	10 10 1* 'OIL' 0.0 STD STOP NO 	1*/
+  'INJ'		'G2' 	1  1  1* 'WAT' 0.0 STD STOP YES	1*/
+  'INJX'	'G2'	1  1  1* 'WAT' 0.0 STD STOP YES	1*/
+  'I'     'G2'  1  1  1* 'WAT' 0.0 STD STOP YES	1*/
+/
+
+COMPDAT
+	'PROD'	10	  10	  1	1	  'OPEN'	1*	1*	0.3 /
+	'INJ'  	1	     1   	1	1 	'OPEN'	1*	1*	0.3 /
+  'INJX' 	1	     1   	3	3	  'OPEN'	1*	1*	0.3 /
+  'I'   	1	     1   	1	1 	'OPEN'	1*	1*	0.3 /
+  'I'   	1	     1   	3	3 	'OPEN'	1*	1*	0.3 /
+/
+
+COMPLUMP
+	'I' 	1*	1*	1	1	1/
+	'I'	  1*	1*	3	3	2/
+/
+
+-- PYACTION
+--   'WELLSHUT' 'UNLIMITED'  /
+--   'PYACTION.py'           /
+
+INCLUDE
+'./Wind_Daily250 1.INC' / 
+
+INCLUDE
+'./Wind_Daily250 1.INC' / 
+
+INCLUDE
+'./Wind_Daily250 1.INC' / 
+
+-- INCLUDE
+-- './Wind.INC' / 
+
+DRSDT
+ 0/
+
+TUNING
+  1.0 0.1 0.1 0.15 3.0 0.3 0.1 1.25 1E20 1* /
+  /
+/
+
+-- NEXTSTEP
+-- to avoid timestep chops--used with DATES keyword
+
+END
