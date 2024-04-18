@@ -26,7 +26,7 @@ START
    1 'JAN' 2023 /
 
 WELLDIMS
-   4 5 2 4 /
+   4 5 3 4 /
 
 UNIFIN
 UNIFOUT
