@@ -9,9 +9,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--1 
@@ -25,9 +29,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--2
@@ -41,9 +50,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--3
@@ -57,9 +71,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--4
@@ -73,9 +92,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--5 
@@ -89,9 +112,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--6 
@@ -105,9 +132,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--7 
@@ -121,9 +152,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--8
@@ -137,9 +173,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--9
@@ -153,9 +194,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--10
@@ -169,9 +215,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--11
@@ -185,9 +236,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--12
@@ -201,9 +257,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--13
@@ -217,9 +278,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--14
@@ -233,9 +299,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--15
@@ -249,9 +320,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--16
@@ -265,9 +341,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--17
@@ -281,9 +362,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--18
@@ -297,9 +383,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--19
@@ -313,9 +404,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--20
@@ -329,9 +425,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--21
@@ -345,9 +446,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--22
@@ -361,9 +467,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--23
@@ -377,9 +488,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--24
@@ -393,9 +509,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--25 
@@ -409,9 +529,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--26
@@ -425,9 +550,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--27
@@ -441,9 +571,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--28
@@ -457,9 +592,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--29
@@ -473,9 +613,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--30
@@ -489,9 +634,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--31
@@ -505,9 +655,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--32
@@ -521,9 +676,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--33
@@ -537,9 +697,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--34 
@@ -553,9 +717,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--35
@@ -569,9 +738,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--36
@@ -585,9 +759,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--37
@@ -601,9 +780,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--38
@@ -617,9 +801,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--39
@@ -633,9 +822,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--40
@@ -649,9 +843,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--41
@@ -665,9 +864,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--42
@@ -681,9 +885,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--43
@@ -697,9 +906,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--44 
@@ -713,9 +926,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--45 
@@ -729,9 +946,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--46
@@ -745,9 +967,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--47
@@ -761,9 +988,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--48 
@@ -777,9 +1008,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--49 
@@ -793,9 +1028,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--50 
@@ -809,9 +1048,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--51 
@@ -825,9 +1068,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--52 
@@ -841,9 +1088,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--53
@@ -857,9 +1109,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--54 
@@ -873,9 +1129,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--55 
@@ -889,9 +1149,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--56
@@ -905,9 +1170,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--57
@@ -921,9 +1191,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--58 
@@ -937,9 +1211,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--59 
@@ -953,9 +1231,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--60
@@ -969,9 +1252,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--61
@@ -985,9 +1273,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--62 
@@ -1001,9 +1293,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--63 
@@ -1017,9 +1313,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--64 
@@ -1033,9 +1333,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--65 
@@ -1049,9 +1353,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--66 
@@ -1065,9 +1373,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--67 
@@ -1081,9 +1393,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--68 
@@ -1097,9 +1413,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--69
@@ -1113,9 +1434,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--70 
@@ -1129,9 +1454,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--71 
@@ -1145,9 +1474,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--72 
@@ -1161,9 +1494,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--73 
@@ -1177,9 +1514,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--74 
@@ -1193,9 +1534,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--75 
@@ -1209,9 +1554,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--76
@@ -1225,9 +1575,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--77
@@ -1241,9 +1596,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--78
@@ -1257,9 +1617,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--79
@@ -1273,9 +1638,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--80 
@@ -1289,9 +1658,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--81
@@ -1305,9 +1679,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--82 
@@ -1321,9 +1699,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--83 
@@ -1337,9 +1719,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--84 
@@ -1353,9 +1739,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--85 
@@ -1369,9 +1759,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--86 
@@ -1385,9 +1779,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--87 
@@ -1401,9 +1799,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--88
@@ -1417,9 +1820,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--89
@@ -1433,9 +1841,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--90 
@@ -1449,9 +1861,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--91 
@@ -1465,9 +1881,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--92 
@@ -1481,9 +1901,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--93
@@ -1497,9 +1922,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--94
@@ -1513,9 +1943,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--95 
@@ -1529,9 +1963,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--96 
@@ -1545,9 +1983,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--97 
@@ -1561,9 +2003,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--98 
@@ -1577,9 +2023,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--99 
@@ -1593,9 +2043,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--100 
@@ -1609,9 +2063,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--101 
@@ -1625,9 +2083,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--102 
@@ -1641,9 +2103,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--103 
@@ -1657,9 +2123,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--104
@@ -1673,9 +2144,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--105
@@ -1689,9 +2165,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--106
@@ -1705,9 +2186,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--107 
@@ -1721,9 +2206,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--108 
@@ -1737,9 +2226,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--109
@@ -1753,9 +2247,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--110 
@@ -1769,9 +2267,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--111 
@@ -1785,9 +2287,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--112
@@ -1801,9 +2308,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--113
@@ -1817,9 +2329,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--114
@@ -1833,9 +2350,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--115
@@ -1849,9 +2371,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--116
@@ -1865,9 +2392,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--117
@@ -1881,9 +2413,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--118 
@@ -1897,9 +2433,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--119 
@@ -1913,9 +2453,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--120 
@@ -1929,9 +2473,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--121
@@ -1945,9 +2494,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--122 
@@ -1961,9 +2514,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--123
@@ -1977,9 +2535,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--124 
@@ -1993,9 +2555,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--125 
@@ -2009,9 +2575,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--126 
@@ -2025,9 +2595,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--127 
@@ -2041,9 +2615,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--128 
@@ -2057,9 +2635,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--129 
@@ -2073,9 +2655,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--130 
@@ -2089,9 +2675,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--131 
@@ -2105,9 +2695,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--132
@@ -2121,9 +2716,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--133
@@ -2137,9 +2737,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--134
@@ -2153,9 +2758,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--135 
@@ -2169,9 +2778,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--136
@@ -2185,9 +2799,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--137
@@ -2201,9 +2820,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--138 
@@ -2217,9 +2840,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--139 
@@ -2233,9 +2860,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--140 
@@ -2249,9 +2880,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--141 
@@ -2265,9 +2900,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--142 
@@ -2281,9 +2920,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--143 
@@ -2297,9 +2940,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--144 
@@ -2313,9 +2960,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--145 
@@ -2329,9 +2980,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--146 
@@ -2345,9 +3000,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--147
@@ -2361,9 +3021,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--148
@@ -2377,9 +3042,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--149 
@@ -2393,9 +3062,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--150
@@ -2409,9 +3083,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--151
@@ -2425,9 +3104,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--152 
@@ -2441,9 +3124,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--153
@@ -2457,9 +3145,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--154
@@ -2473,9 +3166,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--155
@@ -2489,9 +3187,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--156 
@@ -2505,9 +3207,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--157 
@@ -2521,9 +3227,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--158 
@@ -2537,9 +3247,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--159
@@ -2553,9 +3268,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--160
@@ -2569,9 +3289,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--161 
@@ -2585,9 +3309,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--162 
@@ -2601,9 +3329,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--163 
@@ -2617,9 +3349,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--164
@@ -2633,9 +3370,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--165
@@ -2649,9 +3391,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--166
@@ -2665,9 +3412,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--167
@@ -2681,9 +3433,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--168 
@@ -2697,9 +3453,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--169 
@@ -2713,9 +3473,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--170 
@@ -2729,9 +3493,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--171 
@@ -2745,9 +3513,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--172 
@@ -2761,9 +3533,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--173 
@@ -2777,9 +3553,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--174
@@ -2793,9 +3574,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--175 
@@ -2809,9 +3594,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--176 
@@ -2825,9 +3614,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--177 
@@ -2841,9 +3634,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--178 
@@ -2857,9 +3654,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--179 
@@ -2873,9 +3674,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--180 
@@ -2889,9 +3694,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--181 
@@ -2905,9 +3714,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--182 
@@ -2921,9 +3734,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--183 
@@ -2937,9 +3754,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--184 
@@ -2953,9 +3774,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--185 
@@ -2969,9 +3794,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--186 
@@ -2985,9 +3814,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--187 
@@ -3001,9 +3834,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--188 
@@ -3017,9 +3854,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--189 
@@ -3033,9 +3874,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--190 
@@ -3049,9 +3894,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--191
@@ -3065,9 +3915,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--192
@@ -3081,9 +3936,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--193
@@ -3097,9 +3957,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--194
@@ -3113,9 +3978,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--195
@@ -3129,9 +3999,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--196
@@ -3145,9 +4020,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--197
@@ -3161,9 +4041,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--198
@@ -3177,9 +4062,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--199 
@@ -3193,9 +4082,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--200 
@@ -3209,9 +4102,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--201
@@ -3225,9 +4123,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--202 
@@ -3241,9 +4143,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--203 
@@ -3257,9 +4163,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--204 
@@ -3273,9 +4183,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--205 
@@ -3289,9 +4203,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--206 
@@ -3305,9 +4223,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--207 
@@ -3321,9 +4243,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--208 
@@ -3337,9 +4263,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--209 
@@ -3353,9 +4283,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--210
@@ -3369,9 +4304,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--211 
@@ -3385,9 +4324,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--212 
@@ -3401,9 +4344,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--213 
@@ -3417,9 +4364,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--214 
@@ -3433,9 +4384,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--215 
@@ -3449,9 +4404,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--216 
@@ -3465,9 +4424,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--217 
@@ -3481,9 +4444,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--218 
@@ -3497,9 +4464,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--219 
@@ -3513,9 +4484,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--220 
@@ -3529,9 +4504,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--221 
@@ -3545,9 +4524,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--222 
@@ -3561,9 +4544,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--223 
@@ -3577,9 +4564,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--224 
@@ -3593,9 +4584,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--225 
@@ -3609,9 +4604,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--226
@@ -3625,9 +4625,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--227
@@ -3641,9 +4646,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--228 
@@ -3657,9 +4666,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--229 
@@ -3673,9 +4686,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--230 
@@ -3689,9 +4706,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--231
@@ -3705,9 +4727,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--232 
@@ -3721,9 +4747,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--233
@@ -3737,9 +4768,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--234
@@ -3753,9 +4789,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--235 
@@ -3769,9 +4809,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--236 
@@ -3785,9 +4829,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--237 
@@ -3801,9 +4849,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--238 
@@ -3817,9 +4869,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--239 
@@ -3833,9 +4889,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--240
@@ -3849,9 +4910,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--241
@@ -3865,9 +4931,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--242
@@ -3881,9 +4952,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--243
@@ -3897,9 +4973,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--244 
@@ -3913,9 +4993,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--245 
@@ -3929,9 +5013,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--246 
@@ -3945,9 +5033,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--247
@@ -3961,9 +5054,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--248
@@ -3977,9 +5075,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--249
@@ -3993,9 +5096,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--250 
@@ -4009,9 +5116,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--251
@@ -4025,9 +5137,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--252
@@ -4041,9 +5158,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--253
@@ -4057,9 +5179,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--254 
@@ -4073,9 +5199,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--255
@@ -4089,9 +5220,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--256 
@@ -4105,9 +5240,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--257
@@ -4121,9 +5261,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--258 
@@ -4137,9 +5281,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--259 
@@ -4153,9 +5301,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--260 
@@ -4169,9 +5321,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--261 
@@ -4185,9 +5341,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--262 
@@ -4201,9 +5361,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--263
@@ -4217,9 +5382,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--264
@@ -4233,9 +5403,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--265 
@@ -4249,9 +5423,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--266
@@ -4265,9 +5444,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--267
@@ -4281,9 +5465,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--268 
@@ -4297,9 +5485,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--269 
@@ -4313,9 +5505,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--270 
@@ -4329,9 +5525,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--271 
@@ -4345,9 +5545,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--272
@@ -4361,9 +5566,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--273 
@@ -4377,9 +5586,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--274
@@ -4393,9 +5607,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--275
@@ -4409,9 +5628,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--276
@@ -4425,9 +5649,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--277 
@@ -4441,9 +5669,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--278 
@@ -4457,9 +5689,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--279 
@@ -4473,9 +5709,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--280
@@ -4489,9 +5730,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--281
@@ -4505,9 +5751,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--282 
@@ -4521,9 +5771,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--283
@@ -4537,9 +5792,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--284 
@@ -4553,9 +5812,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--285 
@@ -4569,9 +5832,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--286
@@ -4585,9 +5853,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--287
@@ -4601,9 +5874,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--288
@@ -4617,9 +5895,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--289
@@ -4633,9 +5916,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--290
@@ -4649,9 +5937,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--291
@@ -4665,9 +5958,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--292 
@@ -4681,9 +5978,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--293
@@ -4697,9 +5999,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--294
@@ -4713,9 +6020,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--295
@@ -4729,9 +6041,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--296 
@@ -4745,9 +6061,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--297 
@@ -4761,9 +6081,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--298
@@ -4777,9 +6102,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--299
@@ -4793,9 +6123,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--300
@@ -4809,9 +6144,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--301
@@ -4825,9 +6165,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--302 
@@ -4841,9 +6185,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--303
@@ -4857,9 +6206,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--304
@@ -4873,9 +6227,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--305
@@ -4889,9 +6248,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--306 
@@ -4905,9 +6268,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--307
@@ -4921,9 +6289,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--308
@@ -4937,9 +6310,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--309
@@ -4953,9 +6331,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--310
@@ -4969,9 +6352,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--311
@@ -4985,9 +6373,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--312
@@ -5001,9 +6394,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--313
@@ -5017,9 +6415,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--314
@@ -5033,9 +6436,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--315
@@ -5049,9 +6457,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--316 
@@ -5065,9 +6477,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--317
@@ -5081,9 +6498,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--318
@@ -5097,9 +6519,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--319
@@ -5113,9 +6540,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--320
@@ -5129,9 +6561,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--321
@@ -5145,9 +6582,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--322
@@ -5161,9 +6603,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--323
@@ -5177,9 +6624,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--324 
@@ -5193,9 +6644,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--325 
@@ -5209,9 +6664,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--326 
@@ -5225,9 +6684,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--327 
@@ -5241,9 +6704,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--328
@@ -5257,9 +6725,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--329
@@ -5273,9 +6746,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--330
@@ -5289,9 +6767,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--331
@@ -5305,9 +6788,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--332
@@ -5321,9 +6809,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--333
@@ -5337,9 +6830,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--334
@@ -5353,9 +6851,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--335
@@ -5369,9 +6872,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--336
@@ -5385,9 +6893,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--337
@@ -5401,9 +6914,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--338 
@@ -5417,9 +6934,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--339 
@@ -5433,9 +6954,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--340 
@@ -5449,9 +6974,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--341
@@ -5465,9 +6995,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--342 
@@ -5481,9 +7015,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--343
@@ -5497,9 +7036,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--344
@@ -5513,9 +7057,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--345
@@ -5529,9 +7078,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--346
@@ -5545,9 +7099,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--347
@@ -5561,9 +7120,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--348
@@ -5577,9 +7141,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--349
@@ -5593,9 +7162,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--350
@@ -5609,9 +7183,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--351
@@ -5625,9 +7204,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--352
@@ -5641,9 +7225,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--353
@@ -5657,9 +7246,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--354
@@ -5673,9 +7267,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--355
@@ -5689,9 +7288,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--356
@@ -5705,9 +7309,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--357
@@ -5721,9 +7330,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--358
@@ -5737,9 +7351,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--359
@@ -5753,9 +7372,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--360
@@ -5769,9 +7393,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--361
@@ -5785,9 +7414,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--362
@@ -5801,9 +7435,13 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 / 
-/ 
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
+/
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--363 
@@ -5817,9 +7455,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--364
@@ -5833,9 +7476,14 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 1 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0 	RAT 	 1 	 /
+	'INJ'	Yes 	 0 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
+
+GRUPTRAG
+	'G1'	 RATE	2000	/
+/
+
  
 TSTEP
  1 /--365
