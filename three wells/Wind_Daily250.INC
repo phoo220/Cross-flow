@@ -9,8 +9,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -25,8 +25,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -41,8 +41,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -57,8 +57,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -73,8 +73,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -89,8 +89,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -105,8 +105,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -121,8 +121,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -137,8 +137,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -153,8 +153,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -169,8 +169,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -185,8 +185,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -201,8 +201,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -217,8 +217,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -233,8 +233,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -249,8 +249,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -265,8 +265,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -281,8 +281,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -297,8 +297,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -313,8 +313,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -329,8 +329,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -345,8 +345,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -361,8 +361,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -377,8 +377,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -393,8 +393,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -409,8 +409,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -425,8 +425,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -441,8 +441,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -457,8 +457,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -473,8 +473,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -489,8 +489,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -505,8 +505,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -521,8 +521,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -537,8 +537,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -553,8 +553,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -569,8 +569,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -585,8 +585,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -601,8 +601,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -617,8 +617,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -633,8 +633,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -649,8 +649,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -665,8 +665,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -681,8 +681,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -697,8 +697,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -713,8 +713,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -729,8 +729,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -745,8 +745,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -761,8 +761,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -777,8 +777,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -793,8 +793,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -809,8 +809,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -825,8 +825,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -841,8 +841,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -857,8 +857,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -873,8 +873,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -889,8 +889,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -905,8 +905,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -921,8 +921,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -937,8 +937,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -953,8 +953,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -969,8 +969,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -985,8 +985,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1001,8 +1001,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1017,8 +1017,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1033,8 +1033,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1049,8 +1049,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1065,8 +1065,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1081,8 +1081,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1097,8 +1097,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1113,8 +1113,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1129,8 +1129,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1145,8 +1145,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1161,8 +1161,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1177,8 +1177,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1193,8 +1193,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1209,8 +1209,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1225,8 +1225,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1241,8 +1241,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1257,8 +1257,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1273,8 +1273,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1289,8 +1289,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1305,8 +1305,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1321,8 +1321,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1337,8 +1337,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1353,8 +1353,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1369,8 +1369,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1385,8 +1385,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1401,8 +1401,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1417,8 +1417,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1433,8 +1433,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1449,8 +1449,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1465,8 +1465,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1481,8 +1481,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1497,8 +1497,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1513,8 +1513,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1529,8 +1529,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1545,8 +1545,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1561,8 +1561,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1577,8 +1577,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1593,8 +1593,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1609,8 +1609,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1625,8 +1625,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1641,8 +1641,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1657,8 +1657,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1673,8 +1673,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1689,8 +1689,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1705,8 +1705,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1721,8 +1721,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1737,8 +1737,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1753,8 +1753,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1769,8 +1769,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1785,8 +1785,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1801,8 +1801,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1817,8 +1817,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1833,8 +1833,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1849,8 +1849,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1865,8 +1865,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1881,8 +1881,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1897,8 +1897,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1913,8 +1913,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1929,8 +1929,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1945,8 +1945,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1961,8 +1961,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -1977,8 +1977,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -1993,8 +1993,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2009,8 +2009,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2025,8 +2025,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2041,8 +2041,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2057,8 +2057,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2073,8 +2073,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2089,8 +2089,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2105,8 +2105,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2121,8 +2121,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2137,8 +2137,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2153,8 +2153,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2169,8 +2169,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2185,8 +2185,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2201,8 +2201,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2217,8 +2217,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2233,8 +2233,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2249,8 +2249,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2265,8 +2265,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2281,8 +2281,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2297,8 +2297,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2313,8 +2313,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2329,8 +2329,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2345,8 +2345,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2361,8 +2361,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2377,8 +2377,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2393,8 +2393,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2409,8 +2409,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2425,8 +2425,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2441,8 +2441,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2457,8 +2457,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2473,8 +2473,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2489,8 +2489,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2505,8 +2505,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2521,8 +2521,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2537,8 +2537,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2553,8 +2553,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2569,8 +2569,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2585,8 +2585,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2601,8 +2601,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2617,8 +2617,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2633,8 +2633,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2649,8 +2649,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2665,8 +2665,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2681,8 +2681,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2697,8 +2697,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2713,8 +2713,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2729,8 +2729,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2745,8 +2745,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2761,8 +2761,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2777,8 +2777,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -2793,8 +2793,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2809,8 +2809,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2825,8 +2825,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2841,8 +2841,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2857,8 +2857,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2873,8 +2873,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2889,8 +2889,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2905,8 +2905,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2921,8 +2921,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2937,8 +2937,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2953,8 +2953,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2969,8 +2969,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -2985,8 +2985,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3001,8 +3001,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3017,8 +3017,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3033,8 +3033,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3049,8 +3049,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3065,8 +3065,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3081,8 +3081,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3097,8 +3097,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3113,8 +3113,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3129,8 +3129,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3145,8 +3145,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3161,8 +3161,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3177,8 +3177,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3193,8 +3193,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3209,8 +3209,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3225,8 +3225,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3241,8 +3241,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3257,8 +3257,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3273,8 +3273,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3289,8 +3289,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3305,8 +3305,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3321,8 +3321,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3337,8 +3337,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3353,8 +3353,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3369,8 +3369,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3385,8 +3385,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3401,8 +3401,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3417,8 +3417,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3433,8 +3433,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3449,8 +3449,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3465,8 +3465,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3481,8 +3481,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3497,8 +3497,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3513,8 +3513,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3529,8 +3529,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3545,8 +3545,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3561,8 +3561,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3577,8 +3577,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3593,8 +3593,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3609,8 +3609,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3625,8 +3625,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3641,8 +3641,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3657,8 +3657,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3673,8 +3673,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3689,8 +3689,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3705,8 +3705,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3721,8 +3721,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3737,8 +3737,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3753,8 +3753,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3769,8 +3769,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3785,8 +3785,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3801,8 +3801,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3817,8 +3817,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3833,8 +3833,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3849,8 +3849,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3865,8 +3865,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3881,8 +3881,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3897,8 +3897,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3913,8 +3913,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3929,8 +3929,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -3945,8 +3945,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3961,8 +3961,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3977,8 +3977,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -3993,8 +3993,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4009,8 +4009,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4025,8 +4025,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4041,8 +4041,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4057,8 +4057,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4073,8 +4073,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4089,8 +4089,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4105,8 +4105,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4121,8 +4121,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4137,8 +4137,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4153,8 +4153,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4169,8 +4169,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4185,8 +4185,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4201,8 +4201,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4217,8 +4217,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4233,8 +4233,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4249,8 +4249,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4265,8 +4265,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4281,8 +4281,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4297,8 +4297,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4313,8 +4313,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4329,8 +4329,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4345,8 +4345,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4361,8 +4361,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4377,8 +4377,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4393,8 +4393,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4409,8 +4409,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4425,8 +4425,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4441,8 +4441,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4457,8 +4457,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4473,8 +4473,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4489,8 +4489,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4505,8 +4505,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4521,8 +4521,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4537,8 +4537,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4553,8 +4553,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4569,8 +4569,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4585,8 +4585,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4601,8 +4601,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4617,8 +4617,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4633,8 +4633,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4649,8 +4649,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4665,8 +4665,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4681,8 +4681,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4697,8 +4697,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4713,8 +4713,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4729,8 +4729,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4745,8 +4745,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4761,8 +4761,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4777,8 +4777,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4793,8 +4793,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4809,8 +4809,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4825,8 +4825,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4841,8 +4841,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4857,8 +4857,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4873,8 +4873,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4889,8 +4889,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -4905,8 +4905,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4921,8 +4921,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4937,8 +4937,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4953,8 +4953,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4969,8 +4969,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -4985,8 +4985,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5001,8 +5001,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5017,8 +5017,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5033,8 +5033,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5049,8 +5049,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -5065,8 +5065,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5081,8 +5081,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5097,8 +5097,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5113,8 +5113,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5129,8 +5129,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5145,8 +5145,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5161,8 +5161,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5177,8 +5177,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -5193,8 +5193,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -5209,8 +5209,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -5225,8 +5225,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -5241,8 +5241,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5257,8 +5257,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5273,8 +5273,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5289,8 +5289,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5305,8 +5305,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5321,8 +5321,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5337,8 +5337,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5353,8 +5353,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5369,8 +5369,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5385,8 +5385,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5401,8 +5401,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -5417,8 +5417,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -5433,8 +5433,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -5449,8 +5449,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5465,8 +5465,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -5481,8 +5481,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5497,8 +5497,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5513,8 +5513,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5529,8 +5529,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5545,8 +5545,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5561,8 +5561,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5577,8 +5577,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5593,8 +5593,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5609,8 +5609,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5625,8 +5625,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5641,8 +5641,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5657,8 +5657,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5673,8 +5673,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5689,8 +5689,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5705,8 +5705,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5721,8 +5721,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5737,8 +5737,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5753,8 +5753,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5769,8 +5769,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5785,8 +5785,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5801,8 +5801,8 @@ WCONINJE
  	'I' 	'WAT' 	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 / 
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 / 
 / 
  
 TSTEP
@@ -5817,8 +5817,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
@@ -5833,8 +5833,8 @@ WCONINJE
 	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 WGRUPCON
-	'INJ'	Yes 	 0.5 	 RAT 	 1 	 / 
-	'INJX'	Yes 	 0.5  	 RAT 	 1 	 /
+	'INJ'	Yes 	 1 	RAT 	 1 	 / 
+	'INJX'	Yes 	 0 	RAT 	 1 	 /
 / 
  
 TSTEP
