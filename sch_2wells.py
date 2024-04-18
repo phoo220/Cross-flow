@@ -11,7 +11,7 @@ TSTEP = 1
 limit = 1000
  
 # To delete the existing one
-output_file = '2wells/Wind_Daily250.INC'
+output_file = 'three wells/Wind_Daily250.INC'
 if os.path.exists(output_file):
     os.remove(output_file)
  
