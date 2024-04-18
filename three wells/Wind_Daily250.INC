@@ -4,7 +4,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	688.4345187655468	/
 /
 
@@ -16,7 +16,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -28,7 +28,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -40,7 +40,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1496.5967799251018	/
 /
 
@@ -52,7 +52,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	259.410108520351	/
 /
 
@@ -64,7 +64,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	29.931935598502037	/
 /
 
@@ -76,7 +76,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	179.59161359101222	/
 /
 
@@ -88,7 +88,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1077.5496815460733	/
 /
 
@@ -100,7 +100,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -112,7 +112,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -124,7 +124,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -136,7 +136,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -148,7 +148,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -160,7 +160,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -172,7 +172,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1596.3698985867754	/
 /
 
@@ -184,7 +184,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1346.9371019325918	/
 /
 
@@ -196,7 +196,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1057.5950578137388	/
 /
 
@@ -208,7 +208,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -220,7 +220,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -232,7 +232,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -244,7 +244,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -256,7 +256,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -268,7 +268,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -280,7 +280,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -292,7 +292,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	578.6840882377061	/
 /
 
@@ -304,7 +304,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1356.9144137987591	/
 /
 
@@ -316,7 +316,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1287.0732307355877	/
 /
 
@@ -328,7 +328,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -340,7 +340,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -352,7 +352,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -364,7 +364,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -376,7 +376,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -388,7 +388,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -400,7 +400,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	79.81849492933877	/
 /
 
@@ -412,7 +412,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1486.6194680589344	/
 /
 
@@ -424,7 +424,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -436,7 +436,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -448,7 +448,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1167.3454883415795	/
 /
 
@@ -460,7 +460,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -472,7 +472,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -484,7 +484,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -496,7 +496,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -508,7 +508,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1426.7555968619304	/
 /
 
@@ -520,7 +520,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	897.9580679550611	/
 /
 
@@ -532,7 +532,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	409.0697865128612	/
 /
 
@@ -544,7 +544,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1336.9597900664244	/
 /
 
@@ -556,7 +556,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1406.8009731295958	/
 /
 
@@ -568,7 +568,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	568.7067763715387	/
 /
 
@@ -580,7 +580,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	369.1605390481918	/
 /
 
@@ -592,7 +592,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	349.2059153158571	/
 /
 
@@ -604,7 +604,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	768.2530136948857	/
 /
 
@@ -616,7 +616,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	269.38742038651833	/
 /
 
@@ -628,7 +628,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -640,7 +640,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	89.79580679550611	/
 /
 
@@ -652,7 +652,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	309.29666785118775	/
 /
 
@@ -664,7 +664,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -676,7 +676,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -688,7 +688,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	947.8446272858979	/
 /
 
@@ -700,7 +700,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	149.65967799251018	/
 /
 
@@ -712,7 +712,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1596.3698985867754	/
 /
 
@@ -724,7 +724,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -736,7 +736,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	838.094196758057	/
 /
 
@@ -748,7 +748,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	149.65967799251018	/
 /
 
@@ -760,7 +760,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	99.77311866167346	/
 /
 
@@ -772,7 +772,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	578.6840882377061	/
 /
 
@@ -784,7 +784,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	259.410108520351	/
 /
 
@@ -796,7 +796,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	478.9109695760326	/
 /
 
@@ -808,7 +808,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	458.95634584369793	/
 /
 
@@ -820,7 +820,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1237.186671404751	/
 /
 
@@ -832,7 +832,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	9.977311866167346	/
 /
 
@@ -844,7 +844,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	209.52354918951426	/
 /
 
@@ -856,7 +856,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	768.2530136948857	/
 /
 
@@ -868,7 +868,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	229.47817292184897	/
 /
 
@@ -880,7 +880,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	0.0	/
 /
 
@@ -892,7 +892,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	0.0	/
 /
 
@@ -904,7 +904,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1227.2093595385836	/
 /
 
@@ -916,7 +916,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -928,7 +928,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -940,7 +940,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -952,7 +952,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	957.8219391520652	/
 /
 
@@ -964,7 +964,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1137.4135527430774	/
 /
 
@@ -976,7 +976,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	89.79580679550611	/
 /
 
@@ -988,7 +988,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	289.34204411885304	/
 /
 
@@ -1000,7 +1000,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	419.0470983790285	/
 /
 
@@ -1012,7 +1012,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	139.68236612634286	/
 /
 
@@ -1024,7 +1024,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	109.7504305278408	/
 /
 
@@ -1036,7 +1036,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	967.7992510182326	/
 /
 
@@ -1048,7 +1048,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1117.4589290107428	/
 /
 
@@ -1060,7 +1060,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1237.186671404751	/
 /
 
@@ -1072,7 +1072,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	349.2059153158571	/
 /
 
@@ -1084,7 +1084,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	259.410108520351	/
 /
 
@@ -1096,7 +1096,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	688.4345187655468	/
 /
 
@@ -1108,7 +1108,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1120,7 +1120,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1132,7 +1132,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	389.1151627805265	/
 /
 
@@ -1144,7 +1144,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	788.2076374272203	/
 /
 
@@ -1156,7 +1156,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	409.0697865128612	/
 /
 
@@ -1168,7 +1168,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	159.63698985867754	/
 /
 
@@ -1180,7 +1180,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	189.56892545717957	/
 /
 
@@ -1192,7 +1192,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	488.88828144219997	/
 /
 
@@ -1204,7 +1204,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	339.2286034496898	/
 /
 
@@ -1216,7 +1216,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	927.8900035535631	/
 /
 
@@ -1228,7 +1228,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	907.9353798212285	/
 /
 
@@ -1240,7 +1240,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1252,7 +1252,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1264,7 +1264,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1257.1412951370855	/
 /
 
@@ -1276,7 +1276,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	628.5706475685428	/
 /
 
@@ -1288,7 +1288,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	359.18322718202444	/
 /
 
@@ -1300,7 +1300,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1366.8917256649263	/
 /
 
@@ -1312,7 +1312,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	19.954623732334692	/
 /
 
@@ -1324,7 +1324,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	159.63698985867754	/
 /
 
@@ -1336,7 +1336,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1348,7 +1348,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1360,7 +1360,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1007.708498482902	/
 /
 
@@ -1372,7 +1372,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1506.5740917912692	/
 /
 
@@ -1384,7 +1384,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1396,7 +1396,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1566.4379629882733	/
 /
 
@@ -1408,7 +1408,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	269.38742038651833	/
 /
 
@@ -1420,7 +1420,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	838.094196758057	/
 /
 
@@ -1432,7 +1432,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	718.3664543640489	/
 /
 
@@ -1444,7 +1444,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1207.2547358062488	/
 /
 
@@ -1456,7 +1456,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	508.8429051745346	/
 /
 
@@ -1468,7 +1468,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1057.5950578137388	/
 /
 
@@ -1480,7 +1480,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	558.7294645053714	/
 /
 
@@ -1492,7 +1492,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	429.0244102451959	/
 /
 
@@ -1504,7 +1504,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	578.6840882377061	/
 /
 
@@ -1516,7 +1516,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	159.63698985867754	/
 /
 
@@ -1528,7 +1528,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	608.6160238362081	/
 /
 
@@ -1540,7 +1540,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	518.820217040702	/
 /
 
@@ -1552,7 +1552,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	79.81849492933877	/
 /
 
@@ -1564,7 +1564,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	488.88828144219997	/
 /
 
@@ -1576,7 +1576,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1588,7 +1588,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1317.0051663340896	/
 /
 
@@ -1600,7 +1600,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1612,7 +1612,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	788.2076374272203	/
 /
 
@@ -1624,7 +1624,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1636,7 +1636,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1648,7 +1648,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	768.2530136948857	/
 /
 
@@ -1660,7 +1660,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	289.34204411885304	/
 /
 
@@ -1672,7 +1672,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	319.2739797173551	/
 /
 
@@ -1684,7 +1684,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	209.52354918951426	/
 /
 
@@ -1696,7 +1696,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	389.1151627805265	/
 /
 
@@ -1708,7 +1708,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	458.95634584369793	/
 /
 
@@ -1720,7 +1720,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	89.79580679550611	/
 /
 
@@ -1732,7 +1732,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	99.77311866167346	/
 /
 
@@ -1744,7 +1744,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	309.29666785118775	/
 /
 
@@ -1756,7 +1756,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1768,7 +1768,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1616.32452231911	/
 /
 
@@ -1780,7 +1780,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	748.2983899625509	/
 /
 
@@ -1792,7 +1792,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1376.8690375310937	/
 /
 
@@ -1804,7 +1804,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1117.4589290107428	/
 /
 
@@ -1816,7 +1816,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	389.1151627805265	/
 /
 
@@ -1828,7 +1828,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1840,7 +1840,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1852,7 +1852,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1864,7 +1864,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	109.7504305278408	/
 /
 
@@ -1876,7 +1876,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	189.56892545717957	/
 /
 
@@ -1888,7 +1888,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	648.5252713008775	/
 /
 
@@ -1900,7 +1900,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1912,7 +1912,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1924,7 +1924,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	399.09247464669386	/
 /
 
@@ -1936,7 +1936,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	329.2512915835224	/
 /
 
@@ -1948,7 +1948,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	89.79580679550611	/
 /
 
@@ -1960,7 +1960,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1972,7 +1972,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1984,7 +1984,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -1996,7 +1996,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1207.2547358062488	/
 /
 
@@ -2008,7 +2008,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	199.54623732334693	/
 /
 
@@ -2020,7 +2020,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	219.5008610556816	/
 /
 
@@ -2032,7 +2032,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	239.4554847880163	/
 /
 
@@ -2044,7 +2044,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	109.7504305278408	/
 /
 
@@ -2056,7 +2056,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	538.7748407730367	/
 /
 
@@ -2068,7 +2068,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	39.909247464669384	/
 /
 
@@ -2080,7 +2080,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1127.43624087691	/
 /
 
@@ -2092,7 +2092,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	189.56892545717957	/
 /
 
@@ -2104,7 +2104,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	389.1151627805265	/
 /
 
@@ -2116,7 +2116,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	59.86387119700407	/
 /
 
@@ -2128,7 +2128,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	359.18322718202444	/
 /
 
@@ -2140,7 +2140,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	0.0	/
 /
 
@@ -2152,7 +2152,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	0.0	/
 /
 
@@ -2164,7 +2164,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	99.77311866167346	/
 /
 
@@ -2176,7 +2176,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	149.65967799251018	/
 /
 
@@ -2188,7 +2188,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	249.43279665418365	/
 /
 
@@ -2200,7 +2200,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	0.0	/
 /
 
@@ -2212,7 +2212,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	329.2512915835224	/
 /
 
@@ -2224,7 +2224,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	109.7504305278408	/
 /
 
@@ -2236,7 +2236,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	369.1605390481918	/
 /
 
@@ -2248,7 +2248,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	89.79580679550611	/
 /
 
@@ -2260,7 +2260,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	149.65967799251018	/
 /
 
@@ -2272,7 +2272,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	229.47817292184897	/
 /
 
@@ -2284,7 +2284,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1646.2564579176121	/
 /
 
@@ -2296,7 +2296,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1416.7782849957632	/
 /
 
@@ -2308,7 +2308,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -2320,7 +2320,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -2332,7 +2332,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -2344,7 +2344,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1097.504305278408	/
 /
 
@@ -2356,7 +2356,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1067.572369679906	/
 /
 
@@ -2368,7 +2368,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -2380,7 +2380,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	99.77311866167346	/
 /
 
@@ -2392,7 +2392,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	967.7992510182326	/
 /
 
@@ -2404,7 +2404,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1606.3472104529428	/
 /
 
@@ -2416,7 +2416,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	588.6614001038735	/
 /
 
@@ -2428,7 +2428,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	149.65967799251018	/
 /
 
@@ -2440,7 +2440,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	219.5008610556816	/
 /
 
@@ -2452,7 +2452,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	49.88655933083673	/
 /
 
@@ -2464,7 +2464,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	0.0	/
 /
 
@@ -2476,7 +2476,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	0.0	/
 /
 
@@ -2488,7 +2488,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	0.0	/
 /
 
@@ -2500,7 +2500,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	159.63698985867754	/
 /
 
@@ -2512,7 +2512,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1177.322800207747	/
 /
 
@@ -2524,7 +2524,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	209.52354918951426	/
 /
 
@@ -2536,7 +2536,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	468.93365770986526	/
 /
 
@@ -2548,7 +2548,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	79.81849492933877	/
 /
 
@@ -2560,7 +2560,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	269.38742038651833	/
 /
 
@@ -2572,7 +2572,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	219.5008610556816	/
 /
 
@@ -2584,7 +2584,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	339.2286034496898	/
 /
 
@@ -2596,7 +2596,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	39.909247464669384	/
 /
 
@@ -2608,7 +2608,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	987.7538747505672	/
 /
 
@@ -2620,7 +2620,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	878.0034442227264	/
 /
 
@@ -2632,7 +2632,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	738.3210780963836	/
 /
 
@@ -2644,7 +2644,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	299.31935598502037	/
 /
 
@@ -2656,7 +2656,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	149.65967799251018	/
 /
 
@@ -2668,7 +2668,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	339.2286034496898	/
 /
 
@@ -2680,7 +2680,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	199.54623732334693	/
 /
 
@@ -2692,7 +2692,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	937.8673154197305	/
 /
 
@@ -2704,7 +2704,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -2716,7 +2716,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -2728,7 +2728,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	339.2286034496898	/
 /
 
@@ -2740,7 +2740,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	59.86387119700407	/
 /
 
@@ -2752,7 +2752,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	229.47817292184897	/
 /
 
@@ -2764,7 +2764,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1376.8690375310937	/
 /
 
@@ -2776,7 +2776,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	488.88828144219997	/
 /
 
@@ -2788,7 +2788,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1227.2093595385836	/
 /
 
@@ -2800,7 +2800,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -2812,7 +2812,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	419.0470983790285	/
 /
 
@@ -2824,7 +2824,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	49.88655933083673	/
 /
 
@@ -2836,7 +2836,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	79.81849492933877	/
 /
 
@@ -2848,7 +2848,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	79.81849492933877	/
 /
 
@@ -2860,7 +2860,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	329.2512915835224	/
 /
 
@@ -2872,7 +2872,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1117.4589290107428	/
 /
 
@@ -2884,7 +2884,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1356.9144137987591	/
 /
 
@@ -2896,7 +2896,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1227.2093595385836	/
 /
 
@@ -2908,7 +2908,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1616.32452231911	/
 /
 
@@ -2920,7 +2920,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	399.09247464669386	/
 /
 
@@ -2932,7 +2932,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	329.2512915835224	/
 /
 
@@ -2944,7 +2944,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	967.7992510182326	/
 /
 
@@ -2956,7 +2956,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -2968,7 +2968,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -2980,7 +2980,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1247.1639832709182	/
 /
 
@@ -2992,7 +2992,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	878.0034442227264	/
 /
 
@@ -3004,7 +3004,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3016,7 +3016,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3028,7 +3028,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3040,7 +3040,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	688.4345187655468	/
 /
 
@@ -3052,7 +3052,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1217.2320476724162	/
 /
 
@@ -3064,7 +3064,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	429.0244102451959	/
 /
 
@@ -3076,7 +3076,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1167.3454883415795	/
 /
 
@@ -3088,7 +3088,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	379.13785091435915	/
 /
 
@@ -3100,7 +3100,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	239.4554847880163	/
 /
 
@@ -3112,7 +3112,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	69.84118306317143	/
 /
 
@@ -3124,7 +3124,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	99.77311866167346	/
 /
 
@@ -3136,7 +3136,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	89.79580679550611	/
 /
 
@@ -3148,7 +3148,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3160,7 +3160,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3172,7 +3172,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	359.18322718202444	/
 /
 
@@ -3184,7 +3184,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3196,7 +3196,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1307.0278544679222	/
 /
 
@@ -3208,7 +3208,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	628.5706475685428	/
 /
 
@@ -3220,7 +3220,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	169.6143017248449	/
 /
 
@@ -3232,7 +3232,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	698.4118306317142	/
 /
 
@@ -3244,7 +3244,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	319.2739797173551	/
 /
 
@@ -3256,7 +3256,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1346.9371019325918	/
 /
 
@@ -3268,7 +3268,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	419.0470983790285	/
 /
 
@@ -3280,7 +3280,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1097.504305278408	/
 /
 
@@ -3292,7 +3292,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3304,7 +3304,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3316,7 +3316,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	708.3891424978816	/
 /
 
@@ -3328,7 +3328,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	439.0017221113632	/
 /
 
@@ -3340,7 +3340,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	648.5252713008775	/
 /
 
@@ -3352,7 +3352,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1057.5950578137388	/
 /
 
@@ -3364,7 +3364,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3376,7 +3376,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	708.3891424978816	/
 /
 
@@ -3388,7 +3388,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1506.5740917912692	/
 /
 
@@ -3400,7 +3400,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	159.63698985867754	/
 /
 
@@ -3412,7 +3412,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	169.6143017248449	/
 /
 
@@ -3424,7 +3424,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3436,7 +3436,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3448,7 +3448,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3460,7 +3460,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3472,7 +3472,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1696.1430172484488	/
 /
 
@@ -3484,7 +3484,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1496.5967799251018	/
 /
 
@@ -3496,7 +3496,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	69.84118306317143	/
 /
 
@@ -3508,7 +3508,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3520,7 +3520,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3532,7 +3532,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3544,7 +3544,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	369.1605390481918	/
 /
 
@@ -3556,7 +3556,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	149.65967799251018	/
 /
 
@@ -3568,7 +3568,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1366.8917256649263	/
 /
 
@@ -3580,7 +3580,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3592,7 +3592,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3604,7 +3604,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1157.3681764754122	/
 /
 
@@ -3616,7 +3616,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	269.38742038651833	/
 /
 
@@ -3628,7 +3628,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1167.3454883415795	/
 /
 
@@ -3640,7 +3640,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3652,7 +3652,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3664,7 +3664,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	658.5025831670448	/
 /
 
@@ -3676,7 +3676,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3688,7 +3688,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3700,7 +3700,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3712,7 +3712,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3724,7 +3724,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3736,7 +3736,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3748,7 +3748,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3760,7 +3760,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3772,7 +3772,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3784,7 +3784,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	987.7538747505672	/
 /
 
@@ -3796,7 +3796,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1257.1412951370855	/
 /
 
@@ -3808,7 +3808,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3820,7 +3820,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3832,7 +3832,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1566.4379629882733	/
 /
 
@@ -3844,7 +3844,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1376.8690375310937	/
 /
 
@@ -3856,7 +3856,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3868,7 +3868,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3880,7 +3880,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	907.9353798212285	/
 /
 
@@ -3892,7 +3892,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	518.820217040702	/
 /
 
@@ -3904,7 +3904,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	69.84118306317143	/
 /
 
@@ -3916,7 +3916,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	458.95634584369793	/
 /
 
@@ -3928,7 +3928,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1516.5514036574366	/
 /
 
@@ -3940,7 +3940,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1506.5740917912692	/
 /
 
@@ -3952,7 +3952,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3964,7 +3964,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3976,7 +3976,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -3988,7 +3988,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4000,7 +4000,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4012,7 +4012,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4024,7 +4024,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4036,7 +4036,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1366.8917256649263	/
 /
 
@@ -4048,7 +4048,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	758.2757018287183	/
 /
 
@@ -4060,7 +4060,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	439.0017221113632	/
 /
 
@@ -4072,7 +4072,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	658.5025831670448	/
 /
 
@@ -4084,7 +4084,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4096,7 +4096,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	828.1168848918898	/
 /
 
@@ -4108,7 +4108,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4120,7 +4120,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4132,7 +4132,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4144,7 +4144,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4156,7 +4156,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4168,7 +4168,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4180,7 +4180,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4192,7 +4192,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1486.6194680589344	/
 /
 
@@ -4204,7 +4204,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4216,7 +4216,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4228,7 +4228,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4240,7 +4240,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4252,7 +4252,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4264,7 +4264,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4276,7 +4276,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4288,7 +4288,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4300,7 +4300,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4312,7 +4312,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4324,7 +4324,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4336,7 +4336,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4348,7 +4348,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	897.9580679550611	/
 /
 
@@ -4360,7 +4360,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
@@ -4372,7 +4372,7 @@ WGRUPCON
 	'INJ'	Yes 	 0 	RAT 	 1 	 / 
 	'INJX'	Yes 	 0.01 	RAT 	 1 	 / 
 /
-GRUPTRAG
+GRUPTARG
 	'G1'	 RATE	1726.074952846951	/
 /
 
