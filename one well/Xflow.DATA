@@ -1,0 +1,53 @@
+INCLUDE
+'../base.INC' / 
+
+SCHEDULE
+---------------------------------------------------------------------------
+
+RPTSCHED
+	'PRES' 'SGAS' 'RS' 'WELLS' /
+
+RPTRST
+	'BASIC=2' KRO KRW KRG /
+
+WELSPECS
+-- Name 	Group	I  J                    Cross Flow
+  'PROD'	'G1' 	10 10 1* 'OIL' 0.0 STD STOP NO 	1*/
+  'INJ'		'G1' 	1  1  1* 'WAT' 0.0 STD STOP YES	1*/
+/
+
+COMPDAT
+	'PROD'	10	  10	1	1	'OPEN'	1*	1*	0.3 /
+	'INJ'  	1	  1   	1	1	'OPEN'	1*	1*	0.3 /
+    'INJ' 	1	  1   	3	3	'OPEN'	1*	1*	0.3 /
+/
+
+COMPLUMP
+	'INJ'	1*	1*	1	1	1/
+	'INJ'	1*	1*	3	3	2/
+/
+
+INCLUDE
+'../Wind_Daily2.INC' / 
+
+INCLUDE
+'../Wind_Daily2.INC' / 
+
+INCLUDE
+'../Wind_Daily2.INC' / 
+
+-- INCLUDE
+-- './Wind.INC' / 
+
+DRSDT
+ 0/
+
+TUNING
+  1.0 0.1 0.1 0.15 3.0 0.3 0.1 1.25 1E20 1* /
+  /
+/
+
+-- NEXTSTEP
+-- to avoid timestep chops--used with DATES keyword
+
+END
