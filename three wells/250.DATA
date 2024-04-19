@@ -49,14 +49,13 @@ G2 WAT RATE 500 1* 1* 1* YES 1* 1* 1* 1* /
 / 
 
 WGRUPCON
-	'INJ'	  Yes 	 0 	RAT 	 1 	 / 
-	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
+	'INJ'	  Yes 	 0 	    RAT 	 1 	 / 
+	'INJX'	  Yes 	 0.01 	RAT 	 1 	 /
 / 
 
-
--- PYACTION
---   'WELLSHUT' 'UNLIMITED'  /
---   'PYACTION.py'           /
+PYACTION
+  'WELLSHUT' 'UNLIMITED'  /
+  'PYACTION.py'           /
 
 INCLUDE
 './Wind_Daily250.INC' / 
