@@ -67,8 +67,6 @@ INCLUDE
 INCLUDE
 './Wind_Daily250.INC' / 
 
--- INCLUDE
--- './Wind.INC' / 
 
 DRSDT
  0/
