@@ -112,6 +112,16 @@ CWFR
   'INJ' 1 1 3  /
 /
 
+CWIR
+	'INJ' 1 1 1  /
+  'INJ' 1 1 3  /
+/
+
+CWIT
+	'INJ' 1 1 1  /
+  'INJ' 1 1 3  /
+/
+
 WGOR
   'PROD'
 /
