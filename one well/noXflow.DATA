@@ -3,12 +3,19 @@ INCLUDE
 
 SCHEDULE
 ---------------------------------------------------------------------------
+TUNING
+  0.1 0.1 0.1 0.1 1.0 1.0 1.0 1.0 1E20 1* /
+  /
+/
 
 RPTSCHED
 	'PRES' 'SGAS' 'RS' 'WELLS' /
 
 RPTRST
 	'BASIC=1' /
+
+DRSDT
+ 0/
 
 WELSPECS
 -- Name 	Group	I  J                    Cross Flow
@@ -18,34 +25,27 @@ WELSPECS
 
 COMPDAT
 	'PROD'	10	  10	1	1	'OPEN'	1*	1*	0.3 /
-	'INJ'  	1	    1 	1	1	'OPEN'	1*	1*	0.3 /
+	'INJ'  	1	   1 	1	1	'OPEN'	1*	1*	0.3 /
 /
 
 COMPLUMP
 	'INJ'	1*	1*	1	1	1/
 /
 
-INCLUDE
-'../Wind_Daily.INC' /
-
-INCLUDE
-'../Wind_Daily.INC' /
+WCONPROD
+	'PROD'	'OPEN'	'BHP'	1500  1* 1* 1* 1*	180  /
+/
 
 INCLUDE
 '../Wind_Daily.INC' /
 
 -- INCLUDE
+-- '../Wind_Daily.INC' /
+-- 
+-- INCLUDE
+-- '../Wind_Daily.INC' /
+
+-- INCLUDE
 -- './Wind.INC' / 
-
-DRSDT
- 0/
-
-TUNING
-  1.0 0.1 0.1 0.15 3.0 0.3 0.1 1.25 1E20 1* /
-  /
-/
-
--- NEXTSTEP
--- to avoid timestep chops--used with DATES keyword
 
 END
