@@ -5,7 +5,7 @@ import os
 excel_file = 'Book_day.xlsx'
 df = pd.read_excel(excel_file)
 PBHP = 180
-IBHP = 250
+IBHP = 260
 TSTEP = 1
 limit = 1000
  
@@ -20,5 +20,5 @@ initial_lines = (f"-- Production well controls (all start producing at day 1)\n\
 with open(output_file, 'w') as file:
     file.write(initial_lines)
     for day, rate in enumerate(df['rate'], start=1):
-        file.write(f"WCONPROD\n\t'PROD'\t'OPEN'\t'BHP'\t1*  1* 1* 1* 1*\t{PBHP}  /\n/\nWCONINJE\n\t'INJ'\tWATER\t'OPEN'\tRATE\t{rate}\t1*\t{IBHP}\t/\n/\nTSTEP\n {TSTEP} /--{day} \n\n")
+        file.write(f"WCONPROD\n\t'PROD'\t'OPEN'\t'BHP'\t1500  1* 1* 1* 1*\t{PBHP}  /\n/\nWCONINJE\n\t'INJ'\tWATER\t'OPEN'\tRATE\t{rate}\t1*\t{IBHP}\t/\n/\nTSTEP\n {TSTEP} /--{day} \n\n")
  
