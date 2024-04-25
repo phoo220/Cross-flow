@@ -83,7 +83,7 @@ SOLUTION
 
 EQUIL
 --datum press OWC WATCAP GOC GASCAP 
-	3000 250 3042 0 3010 0 1 0 0 /
+3000 250 3042 0 3010 0 1 0 0 /
 
 RPTSOL
 FIP=2 SWAT /
@@ -108,24 +108,24 @@ FPR
 FGOR
 
 CWFR
-	'INJ'  1 1 1  /
-  'INJX' 1 1 3  /
-	'I'    1 1 1  /
-  'I'    1 1 3  /
+'INJ'  1 1 1  /
+'INJX' 1 1 3  /
+'I'    1 1 1  /
+'I'    1 1 3  /
 /
 
 CWIR
-	'INJ'  1 1 1  /
-  'INJX' 1 1 3  /
-	'I'    1 1 1  /
-  'I'    1 1 3  /
+'INJ'  1 1 1  /
+'INJX' 1 1 3  /
+'I'    1 1 1  /
+'I'    1 1 3  /
 /
 
 CWIT
-	'INJ'  1 1 1  /
-  'INJX' 1 1 3  /
-	'I'    1 1 1  /
-  'I'    1 1 3  /
+'INJ'  1 1 1  /
+'INJX' 1 1 3  /
+'I'    1 1 1  /
+'I'    1 1 3  /
 /
 
 WGOR
