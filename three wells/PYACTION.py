@@ -11,7 +11,7 @@ def run(ecl_state, schedule, report_step, summary_state, actionx_callback):
     BHP_BOT = summary_state.well_var("INJX","WBHP")
     DeltaP = BHP_BOT - BHP_TOP
     
-    if (DeltaP <= 0 and current_time.month >= 1 and current_time.year >= 2023 and not globals()["act01_executed"]):
+    if (DeltaP <= 0 and current_time.day > 0 and current_time.month >= 1 and current_time.year >= 2023 and not globals()["act01_executed"]):
         print("Bottom layer close at {}\n".format(current_time))
         kw = """
         WCONINJE
