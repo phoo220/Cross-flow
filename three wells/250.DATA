@@ -5,30 +5,30 @@ SCHEDULE
 ---------------------------------------------------------------------------
 
 RPTSCHED
-	 'FIP=2'  'PRES' 'SGAS' 'RS' 'WELLS=1' /
+	 'FIP=2'  'PRESS' 'SGAS' 'RS' 'WELLS=1' /
 
 RPTRST
-	'BASIC=2' KRO KRW KRG /
+	'BASIC=2' PRESS	KRO KRW	SOIL SWAT /
 
 WELSPECS
 -- Name 	Group	I  J                    Cross Flow
   'PROD'	'G1' 	10 10 1* 'OIL' 0.0 STD STOP NO 	1*/
   'INJ'		'G2' 	1  1  1* 'WAT' 0.0 STD STOP YES	1*/
   'INJX'	'G2'	1  1  1* 'WAT' 0.0 STD STOP YES	1*/
-  'I'     'G3'  1  1  1* 'WAT' 0.0 STD STOP YES	1*/
+  'I'       'G3'  1  1  1* 'WAT' 0.0 STD STOP YES	1*/
 /
 
 COMPDAT
-	'PROD'	10	  10	  1	1	  'OPEN'	1*	1*	0.3 /
+	'PROD'	10	  	10	  	1	1	'OPEN'	1*	1*	0.3 /
 	'INJ'  	1	     1   	1	1 	'OPEN'	1*	1*	0.3 /
-  'INJX' 	1	     1   	3	3	  'OPEN'	1*	1*	0.3 /
-  'I'   	1	     1   	1	1 	'OPEN'	1*	1*	0.3 /
-  'I'   	1	     1   	3	3 	'OPEN'	1*	1*	0.3 /
+ 	'INJX' 	1	     1   	3	3	'OPEN'	1*	1*	0.3 /
+ 	'I'   	1	     1   	1	1 	'OPEN'	1*	1*	0.3 /
+ 	'I'   	1	     1   	3	3 	'OPEN'	1*	1*	0.3 /
 /
 
 COMPLUMP
 	'I' 	1*	1*	1	1	1/
-	'I'	  1*	1*	3	3	2/
+	'I'	    1*	1*	3	3	2/
 /
 WCONPROD
 	'PROD'	'OPEN'	'BHP'	1500  1* 1* 1* 1*	180  /
@@ -37,7 +37,7 @@ WCONPROD
 WCONINJE
 	'INJ' 	'WAT' 	'OPEN' 	BHP 	2000 	1* 	260	/
 	'INJX' 	'WAT' 	'OPEN' 	BHP 	2000 	1* 	265 	/
-	'I' 	  'WAT'	  'STOP'	RATE 	1000 	1* 	250	/
+	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
 /
 
 -- GROUP INJECTION TARGETS AND CONSTRAINTS
@@ -49,29 +49,41 @@ G2 WAT RATE 500 1* 1* 1* YES 1* 1* 1* 1* /
 / 
 
 WGRUPCON
-	'INJ'	  Yes 	 0 	    RAT 	 1 	 / 
-	'INJX'	  Yes 	 0.01 	RAT 	 1 	 /
+	'INJ'	  Yes 	 0 	RAT 		 1 	 / 
+	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
 / 
 
-PYACTION
-  'WELLSHUT' 'UNLIMITED'  /
-  'PYACTION.py'           /
 
-INCLUDE
-'./Wind_Daily250.INC' / 
+TUNING
+  0.1 0.1 0.1 0.1 1.0 1.0 1.0 1.0 1E20 1* /
+  /
+/
 
-INCLUDE
-'./Wind_Daily250.INC' / 
+-- PYACTION
+-- 'FLOWCONTROL' 'SINGLE'  /
+-- 'PYACTION.py'           /
 
-INCLUDE
-'./Wind_Daily250.INC' / 
+TSTEP
+10 /
 
+
+-- INCLUDE
+-- './Wind_Daily250.INC' / 
+-- 
+-- INCLUDE
+-- './Wind_Daily250.INC' / 
+-- 
+-- INCLUDE
+-- './Wind_Daily250.INC' / 
+
+-- INCLUDE
+-- './Wind.INC' / 
 
 DRSDT
  0/
 
 TUNING
-  1.0 0.1 0.1 0.15 3.0 0.3 0.1 1.25 1E20 1* /
+  0.01 0.1 0.1 0.01 3.0 0.3 0.1 1.25 1E20 1* /
   /
 /
 
