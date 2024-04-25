@@ -3,6 +3,10 @@ INCLUDE
 
 SCHEDULE
 ---------------------------------------------------------------------------
+TUNING
+  0.1 0.1 0.1 0.1 1.0 1.0 1.0 1.0 1E20 1* /
+  /
+/
 
 RPTSCHED
 	 'FIP=2'  'PRESS' 'SGAS' 'RS' 'WELLS=1' /
@@ -10,12 +14,15 @@ RPTSCHED
 RPTRST
 	'BASIC=2' PRESS	KRO KRW	SOIL SWAT /
 
+DRSDT
+ 0/
+
 WELSPECS
 -- Name 	Group	I  J                    Cross Flow
   'PROD'	'G1' 	10 10 1* 'OIL' 0.0 STD STOP NO 	1*/
   'INJ'		'G2' 	1  1  1* 'WAT' 0.0 STD STOP YES	1*/
   'INJX'	'G2'	1  1  1* 'WAT' 0.0 STD STOP YES	1*/
-  'I'       'G3'  1  1  1* 'WAT' 0.0 STD STOP YES	1*/
+  'I'       'G3'  	1  1  1* 'WAT' 0.0 STD STOP YES	1*/
 /
 
 COMPDAT
@@ -36,8 +43,8 @@ WCONPROD
 
 WCONINJE
 	'INJ' 	'WAT' 	'OPEN' 	BHP 	2000 	1* 	260	/
-	'INJX' 	'WAT' 	'OPEN' 	BHP 	2000 	1* 	265 	/
-	'I' 	'WAT'	'STOP'	RATE 	1000 	1* 	250	/
+	'INJX' 	'WAT' 	'OPEN' 	BHP 	2000 	1* 	265 /
+	'I' 	'WAT'	'OPEN'	RATE 	1000 	1* 	250	/
 /
 
 -- GROUP INJECTION TARGETS AND CONSTRAINTS
@@ -49,45 +56,23 @@ G2 WAT RATE 500 1* 1* 1* YES 1* 1* 1* 1* /
 / 
 
 WGRUPCON
-	'INJ'	  Yes 	 0 	RAT 		 1 	 / 
-	'INJX'	Yes 	 0.01 	RAT 	 1 	 /
+	'INJ'	  Yes 	 0 		RAT 	 1 	 / 
+	'INJX'	  Yes 	 0.01 	RAT 	 1 	 /
 / 
 
-
-TUNING
-  0.1 0.1 0.1 0.1 1.0 1.0 1.0 1.0 1E20 1* /
-  /
-/
-
--- PYACTION
--- 'FLOWCONTROL' 'SINGLE'  /
--- 'PYACTION.py'           /
-
-TSTEP
-10 /
+PYACTION
+'FLOWCONTROL' 'UNLIMITED'  /
+'PYACTION.py'           /
 
 
--- INCLUDE
--- './Wind_Daily250.INC' / 
--- 
--- INCLUDE
--- './Wind_Daily250.INC' / 
--- 
--- INCLUDE
--- './Wind_Daily250.INC' / 
+INCLUDE
+'./Wind_Daily250.INC' / 
 
--- INCLUDE
--- './Wind.INC' / 
+INCLUDE
+'./Wind_Daily250.INC' / 
 
-DRSDT
- 0/
+INCLUDE
+'./Wind_Daily250.INC' / 
 
-TUNING
-  0.01 0.1 0.1 0.01 3.0 0.3 0.1 1.25 1E20 1* /
-  /
-/
-
--- NEXTSTEP
--- to avoid timestep chops--used with DATES keyword
 
 END
