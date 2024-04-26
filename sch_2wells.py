@@ -5,10 +5,10 @@ import os
 excel_file = 'Book_day.xlsx'
 df = pd.read_excel(excel_file)
 PBHP = 180
-IBHP = 250
+IBHP = 260
 GCRL = 2
 TSTEP = 1
-limit = 1000
+limit = 1500
  
 # To delete the existing one
 output_file = 'three wells/Wind_Daily250.INC'
