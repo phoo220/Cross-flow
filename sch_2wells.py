@@ -21,9 +21,11 @@ initial_lines = (f"-- Production well controls (all start producing at day 1)\n\
 with open(output_file, 'w') as file:
     file.write(initial_lines)
     for day, rate in enumerate(df['rate'], start=1):
-        if rate < limit:
-            file.write(f"WCONPROD\n\t'PROD'\t'OPEN'\t'BHP'\t1*  1* 1* 1* 1*\t{PBHP}  /\n/\nWCONINJE\n\t'INJ'\tWATER\t'OPEN'\tRATE\t{rate}\t1*\t{IBHP}\t/\n \t'INJX' \t'WAT' \t'OPEN' \tRATE \t0 \t1* \t{IBHP} \t/\n \t'I' \t'WAT' \t'STOP'\tRATE \t{limit} \t1* \t{IBHP}\t/\n/\nWGRUPCON\n\t'INJ'\tYes \t {GCRL} \tRAT \t 1 \t / \n\t'INJX'\tYes \t {GCRL} \tRAT \t 1 \t / \n/ \n \nTSTEP\n {TSTEP} /--{day} \n\n")
-        else:
-            file.write(f"WCONPROD\n\t'PROD'\t'OPEN'\t'BHP'\t1*  1* 1* 1* 1*\t{PBHP}  /\n/\nWCONINJE\n\t'INJ' \t'WAT' \t'OPEN' \tRATE \t{limit} \t1* \t{IBHP} \t/\n\t'INJX' \t'WAT' \t'OPEN' \tRATE \t{rate-limit} \t1* \t{IBHP} \t/\n\t'I' \t'WAT'\t'STOP'\tRATE \t{limit} \t1* \t{IBHP}\t/\n/\nWGRUPCON\n\t'INJ'\tYes \t {GCRL} \tRAT \t 1 \t / \n\t'INJX'\tYes \t {GCRL} \tRAT \t 1 \t /\n/ \n \nTSTEP\n {TSTEP} /--{day}\n\n")
+         file.write(f"GCONINJE\n\tG2\tWAT\tRATE\t{rate}\t1*\t1*\t1*\tYES\t1*\t1*\t1*\t1*\t/\n/\n\nTSTEP\n {TSTEP} /--{day} \n\n")
+ 
+        # if rate < limit:
+        #     file.write(f"WCONPROD\n\t'PROD'\t'OPEN'\t'BHP'\t1*  1* 1* 1* 1*\t{PBHP}  /\n/\nWCONINJE\n\t'INJ'\tWATER\t'OPEN'\tRATE\t{rate}\t1*\t{IBHP}\t/\n \t'INJX' \t'WAT' \t'OPEN' \tRATE \t0 \t1* \t{IBHP} \t/\n \t'I' \t'WAT' \t'STOP'\tRATE \t{limit} \t1* \t{IBHP}\t/\n/\nWGRUPCON\n\t'INJ'\tYes \t 0 \tRAT \t 1 \t / \n\t'INJX'\tYes \t 0.01 \tRAT \t 1 \t / \n/\nGRUPTRAG\n\t'G1'\t RATE\t2000\t/\n/\n\n \nTSTEP\n {TSTEP} /--{day} \n\n")
+        # else:
+        #     file.write(f"WCONPROD\n\t'PROD'\t'OPEN'\t'BHP'\t1*  1* 1* 1* 1*\t{PBHP}  /\n/\nWCONINJE\n\t'INJ' \t'WAT' \t'OPEN' \tRATE \t{limit} \t1* \t{IBHP} \t/\n\t'INJX' \t'WAT' \t'OPEN' \tRATE \t{rate-limit} \t1* \t{IBHP} \t/\n\t'I' \t'WAT'\t'STOP'\tRATE \t{limit} \t1* \t{IBHP}\t/\n/\nWGRUPCON\n\t'INJ'\tYes \t 0 \tRAT \t 1 \t / \n\t'INJX'\tYes \t 0.01 \tRAT \t 1 \t /\n/ \n\nGRUPTRAG\n\t'G1'\t RATE\t2000\t/\n/\n\n \nTSTEP\n {TSTEP} /--{day}\n\n")
  
  
