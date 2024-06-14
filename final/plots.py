@@ -98,11 +98,14 @@ for i in range(1, 11):
     for j in range(1, 11):
         identifier = f"BPR:{i},{j},3"
         P.append(tSummaryData3.numpy_vector(identifier))
-#print(P[0:3])
+#print(P)
 total_deltaE = np.zeros(1096)
 for i in range(1,len(P)):
     deltaE = (Vb*ct/2)*(P[i]** 2 - P[i-1]** 2)/36
-    print(deltaE)
+    #print(i)
+    #print(P[i])
+    #print(P[i-1])
+    #print(deltaE)
     total_deltaE += deltaE
 
 #print(EC_Xflow_out)
