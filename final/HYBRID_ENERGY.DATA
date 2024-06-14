@@ -1,0 +1,49 @@
+INCLUDE
+'../base.INC' / 
+
+SCHEDULE
+---------------------------------------------------------------------------
+TUNING
+  1.0 30.0 0.1 1.0 1.0 1.0 1.0 1.0 1E20 1* /
+  /
+/
+
+RPTSCHED
+	'PRES' 'SGAS' 'RS' 'WELLS' /
+
+RPTRST
+	'BASIC=1' /
+
+DRSDT
+ 0/
+
+WELSPECS
+-- Name 	Group	I  J                    Cross Flow
+  'PROD'	'G1' 	10 10 1* 'OIL' 0.0 STD STOP NO 	1*/
+  'INJ'		'G1' 	1  1  1* 'WAT' 0.0 STD STOP YES	1*/
+/
+
+COMPDAT
+	'PROD'	10	  10	1	1	'OPEN'	1*	1*	0.3 /
+	'INJ'  	1	   1 	1	1	'OPEN'	1*	1*	0.3 /
+/
+
+COMPLUMP
+	'INJ'	1*	1*	1	1	1/
+/
+
+WCONPROD
+	'PROD'	'OPEN'	'BHP'	1500  1* 1* 1* 1*	180  /
+/
+
+WCONINJE
+	'INJ'	WATER	'OPEN'	RATE	1000	1*	260	/
+/
+
+-- TSTEP
+--  365*3/--1
+
+INCLUDE
+'./sch.INC' /
+
+END
