@@ -1,7 +1,7 @@
 RUNSPEC
 
 TITLE
-   Xflow-model
+   NoXflow-model
 
 DIMENS
    10 10 3 /
@@ -44,7 +44,7 @@ DY
 	300*100 /
 
 DZ
-	100*40 100*5 100*30 /
+	100*40 100*5 100*40 /
 
 TOPS
 	100*3000 /
@@ -68,7 +68,7 @@ PROPS
 NOECHO
 
 INCLUDE
-'../PROPS.INC' / 
+'../PROPS_NC.INC' / 
 
 REGIONS 
 -- ---------------------------------------------------------------------------
@@ -83,7 +83,7 @@ SOLUTION
 
 EQUIL
 --datum press OWC WATCAP GOC GASCAP 
-	3000 250 3042 0 3010 0 1 0 0 /
+	3000 200 3042 0 3010 0 1 0 0 /
 
 RPTSOL
 FIP=2 SWAT /
@@ -91,7 +91,7 @@ FIP=2 SWAT /
 RSVD
 -- Depth    RS(dissolved gas)
 3000 90
-3035 90 /
+3042 90 /
 
 
 SUMMARY
@@ -105,7 +105,7 @@ FWPT
 FWIR
 FWIT
 FPR
-FGOR
+-- FGOR
 
 CWFR
 	'INJ' 1 1 1  /
@@ -122,9 +122,9 @@ CWIT
   'INJ' 1 1 3  /
 /
 
-WGOR
-  'PROD'
-/
+-- WGOR
+--   'PROD'
+-- /
 
 BPR
 1	  1 	1 /
@@ -138,35 +138,42 @@ BGSAT
 10 	10 	1 /
 /
 
--- In order to compare Eclipse with Flow:
 WBHP
   'INJ'
   'PROD'
 /
-WGPR
-  'PROD'
-/
-WGPT
-  'PROD'
-/
+
+-- WGPR
+--   'PROD'
+-- /
+-- WGPT
+--   'PROD'
+-- /
+
 WOPR
   'PROD'
 /
+
 WOPT
   'PROD'
 /
+
 WWIR
   'INJ'
 /
+
 WWIT
   'INJ'
 /
+
 WWPR
   'PROD'
 /
+
 WWPT
   'PROD'
 /
+
 WBHP
   'PROD'
   'INJ'
