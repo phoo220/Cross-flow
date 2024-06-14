@@ -78,10 +78,10 @@ deltaT = []
 X =[]
 for i in range(len(RPR)):
     if i == 0:
-        delta = ((RPR[i]- RPR[i])**2*(V*ct/2)/36)
+        delta = ((RPR[i]- RPR[i])**2*(V/2)*(4.67E-5+4.84E-5)/36)
         xi = RPR[i] - RPR[i]
     else:
-        delta = ((RPR[i]**2 - RPR[i-1]**2)*(V*ct/2)/36) #+(V*(RPR[i] - RPR[i-1]))/36)
+        delta = ((RPR[i]**2 - RPR[i-1]**2)*(V/2)*(4.67E-5+4.84E-5)/36) #+(V*(RPR[i] - RPR[i-1]))/36)
         #delta = (100*(RPR[i]**2 - RPR[i-1]**2)*(V/2)*(4.67E-5+4.84E-5))/(afTime3Diff*3600) #+(V*(RPR[i] - RPR[i-1]))/36)
         xi = RPR[i] - RPR[i-1]
     deltaT.append(delta)
@@ -93,20 +93,29 @@ def numpy_vector(identifier):
         parts = identifier.split(':')[1].split(',')
         return np.array([int(parts[0]), int(parts[1]), int(parts[2])]) 
 
+
 P = []
-for i in range(1, 11):
-    for j in range(1, 11):
+for i in range(1, 10):
+    for j in range(1, 10):
         identifier = f"BPR:{i},{j},3"
         P.append(tSummaryData3.numpy_vector(identifier))
-#print(P)
+#print(len(P))
 total_deltaE = np.zeros(1096)
-for i in range(1,len(P)):
-    deltaE = (Vb*ct/2)*(P[i]** 2 - P[i-1]** 2)/36
-    #print(i)
-    #print(P[i])
-    #print(P[i-1])
+for j in range(1,len(P[0])):
+    deltaE = 0 
+    for i in range(0,len(P)):
+        deltaE += (Vb*ct/2)*(P[i][j]** 2 - P[i][j-1]** 2)/36 
+    total_deltaE[j] = deltaE
+deltaET =np.cumsum(total_deltaE)
+""" print(i)
+    print(P[i])
+    print(P[i][2]) """
     #print(deltaE)
-    total_deltaE += deltaE
+        
+#print(total_deltaE)
+#print(len(total_deltaE))
+#print(len(deltaE))
+
 
 #print(EC_Xflow_out)
 plt.plot(afTime3,EC_Xflow_in,color='red')
@@ -116,10 +125,10 @@ plt.plot(afTime3,total_deltaE,color='orange')
 plt.xlabel('Time [days]')
 plt.ylabel('Energy [kWh]')
 #plt.legend()
-#plt.show()
+plt.show()
 
 E_p = (ECT_Xflow_out/ (ECT_Xflow_in))*100
-efficiency = ((EC_Xflow_out)/ (EC_Xflow_in-total_deltaE))*100
+efficiency = ((ECT_Xflow_out)/ (ECT_Xflow_in-deltaT))*100
 
 def set_plot_params(ax):
     ax.tick_params(axis='both', length=5.0, width=1.5)
@@ -190,6 +199,7 @@ plt.xlabel('Time [days]')
 plt.ylabel('Percentage [%]')
 plt.legend()
 plt.savefig('EfficiencyOfStorage.pdf',bbox_inches='tight')
+plt.show()
 plt.clf()
 
 #Consumption per day
