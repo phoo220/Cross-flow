@@ -44,8 +44,24 @@ BHP_periodicinjection = tSummaryData2.numpy_vector("WBHP:INJ")
 BHP_energystorage_out = tSummaryData3.numpy_vector("WBHP:I")
 BHP_energystorage_in = tSummaryData3.numpy_vector("WBHP:INJX")
 RPR = tSummaryData3.numpy_vector("RPR:2")
-Xflow_outflow = np.maximum(tSummaryData3.numpy_vector("CWFR:I:1,1,3"),0)
+# Xflow = tSummaryData3.numpy_vector("CWFR:I:1,1,3")
+XWrongWay = np.minimum(tSummaryData3.numpy_vector("CWFR:I:1,1,3"),0)
+# print('all -', Xflow[0:20])
+# print('below zero-', (XWrongWay[0:20]))
 Xflow_inflow = tSummaryData3.numpy_vector("WWIR:INJX")
+# print (Xflow_inflow[0:10])
+Xflow_inflow = Xflow_inflow + abs(XWrongWay)
+# print (Xflow_inflow[0:10])
+Xflow_outflow = np.maximum(tSummaryData3.numpy_vector("CWFR:I:1,1,3"),0)
+# Xflow_outflow[:6] = 0
+plt.plot(afTime3,Xflow_inflow, color='blue', label= 'inflow')
+plt.plot(afTime3,Xflow_outflow, color='red', label= 'outflow')
+# plt.plot(afTime3,abs(XWrongWay), color='orange', label= 'wrongway')
+plt.legend()
+plt.show()
+
+# print('below zero-', Xflow_outflow[0:20])
+
 FOPR_constantinjection = tSummaryData1.numpy_vector("FOPR")
 FOPR_periodicinjection = tSummaryData2.numpy_vector("FOPR")
 FOPR_energystorage = tSummaryData3.numpy_vector("FOPR")
@@ -68,25 +84,26 @@ ECT_oil_ES = ECT_energystorage / FOPT_energystorage #kwh/m3
 
 # Bottom layer 
 #EC_Xflow_in = (((Xflow_inflow/86400)*(RPR*100000))/1000)*afTime3Diff*24 #kwh
-EC_Xflow_in = (BHP_energystorage_in*Xflow_inflow*afTime3Diff/36)
+# EC_Xflow_in = (BHP_energystorage_in*Xflow_inflow*afTime3Diff/36)
+EC_Xflow_in = (RPR*Xflow_inflow*afTime3Diff/36)
 ECT_Xflow_in = np.cumsum(EC_Xflow_in)
-EC_Xflow_out = (BHP_energystorage_out*Xflow_outflow*afTime3Diff/36) # kwh
+EC_Xflow_out = (RPR*Xflow_outflow*afTime3Diff/36) # kwh
 ECT_Xflow_out = np.cumsum(EC_Xflow_out)
 #print(afTime3Diff[0:3])
 #print(RPR[0:3])
-deltaT = []
-X =[]
-for i in range(len(RPR)):
-    if i == 0:
-        delta = ((RPR[i]- RPR[i])**2*(V/2)*(4.67E-5+4.84E-5)/36)
-        xi = RPR[i] - RPR[i]
-    else:
-        delta = ((RPR[i]**2 - RPR[i-1]**2)*(V/2)*(4.67E-5+4.84E-5)/36) #+(V*(RPR[i] - RPR[i-1]))/36)
-        #delta = (100*(RPR[i]**2 - RPR[i-1]**2)*(V/2)*(4.67E-5+4.84E-5))/(afTime3Diff*3600) #+(V*(RPR[i] - RPR[i-1]))/36)
-        xi = RPR[i] - RPR[i-1]
-    deltaT.append(delta)
-    X.append(xi)
-deltaT = np.array(deltaT) #kwh
+#deltaT = []
+#X =[]
+#for i in range(len(RPR)):
+#    if i == 0:
+#        delta = ((RPR[i]- RPR[i])**2*(V/2)*(4.67E-5+4.84E-5)/36)
+#        xi = RPR[i] - RPR[i]
+#    else:
+#        delta = ((RPR[i]**2 - RPR[i-1]**2)*(V/2)*(4.67E-5+4.84E-5)/36) #+(V*(RPR[i] - RPR[i-1]))/36)
+#        #delta = (100*(RPR[i]**2 - RPR[i-1]**2)*(V/2)*(4.67E-5+4.84E-5))/(afTime3Diff*3600) #+(V*(RPR[i] - RPR[i-1]))/36)
+#        xi = RPR[i] - RPR[i-1]
+#    deltaT.append(delta)
+#    X.append(xi)
+#deltaT = np.array(deltaT) #kwh
 
 tSummaryData3 = EclSum('WIND+STORAGE.UNSMRY')
 def numpy_vector(identifier):
@@ -95,40 +112,35 @@ def numpy_vector(identifier):
 
 
 P = []
-for i in range(1, 10):
-    for j in range(1, 10):
+for i in range(1, 11):
+    for j in range(1, 11):
         identifier = f"BPR:{i},{j},3"
         P.append(tSummaryData3.numpy_vector(identifier))
+# print(P[0])
+# print(P[0][1])
+# print(P[0][0])
 #print(len(P))
-total_deltaE = np.zeros(1096)
+total_deltaE = np.zeros_like(ECT_Xflow_in)
 for j in range(1,len(P[0])):
     deltaE = 0 
     for i in range(0,len(P)):
-        deltaE += (Vb*ct/2)*(P[i][j]** 2 - P[i][j-1]** 2)/36 
+        #print(P[i][j])
+        deltaE += (Vb*ct/2)*(P[i][j]** 2 - P[i][j-1]** 2)/36
+        #print(deltaE) 
     total_deltaE[j] = deltaE
 deltaET =np.cumsum(total_deltaE)
 """ print(i)
     print(P[i])
     print(P[i][2]) """
     #print(deltaE)
-        
 #print(total_deltaE)
 #print(len(total_deltaE))
 #print(len(deltaE))
-
-
 #print(EC_Xflow_out)
-plt.plot(afTime3,EC_Xflow_in,color='red')
-plt.plot(afTime3,EC_Xflow_out,color='blue')
-plt.plot(afTime3,total_deltaE,color='orange')
-#plt.plot(afTime3,deltaT,color='black')
-plt.xlabel('Time [days]')
-plt.ylabel('Energy [kWh]')
-#plt.legend()
-plt.show()
 
 E_p = (ECT_Xflow_out/ (ECT_Xflow_in))*100
-efficiency = ((ECT_Xflow_out)/ (ECT_Xflow_in-deltaT))*100
+# efficiency = ((ECT_Xflow_out+deltaET)/ (ECT_Xflow_in))*100
+efficiency = ((ECT_Xflow_out)/ (ECT_Xflow_in+deltaET))*100
 
 def set_plot_params(ax):
     ax.tick_params(axis='both', length=5.0, width=1.5)
@@ -137,56 +149,6 @@ def set_plot_params(ax):
 
 fig, ax = plt.subplots(figsize=(8,4))
 set_plot_params(ax)
-
-#Total Consumption
-plt.plot(afTime1,ECT_constantinjection,color='black',label=r'HYBRID ENERGY')
-plt.plot(afTime2,ECT_periodicinjection,color='black',linestyle='dashed', label=r'WIND POWERED')
-plt.plot(afTime3,ECT_energystorage,color='green',label=r'WIND & STORAGE')
-plt.title('Total Energy Consumption During Water Injection')
-plt.xlabel('Time [days]')
-plt.ylabel('Energy [kWh]')
-plt.legend()
-plt.savefig('TotalConsumption.pdf',bbox_inches='tight')
-plt.clf()
-
-# Total Consumption per oil
-fig,ax = plt.subplots(figsize=(8,4))
-set_plot_params(ax)
-plt.plot(afTime1,ECT_oil_CI,color='tab:blue', label=r'HYBRID ENERGY')
-plt.plot(afTime2,ECT_oil_PI,color='orange',label=r'WIND POWERED')
-plt.plot(afTime3,ECT_oil_ES,color='green',label=r'WIND+STORAGE')
-#plt.title('Total Energy Consumption Per Produced Oil')
-plt.xlabel('Time [days]')
-plt.ylabel('Energy [kWh/sm3]')
-plt.legend()
-plt.savefig('TotalConsumptionPerOil.pdf',bbox_inches='tight')
-plt.clf()
-
-#Efficiency of storage layer
-fig,ax1 = plt.subplots(figsize=(8,4))
-set_plot_params(ax1)
-ax1.plot(afTime3, ECT_Xflow_in, color='black', label='Total energy injected into storage layer',zorder=10)
-ax1.plot(afTime3, ECT_Xflow_out, color='black', linestyle='dashed', label='Total energy discharged from storage layer',zorder=10)
-ax1.set_ylabel('Energy [kWh]', color='black')
-ax1.set_xlabel('Time [days]')
-ax1.tick_params('y')
-#ax1.set_ylim(0, 100)
-
-ax2 = ax1.twinx()
-ax2.plot(afTime3, RPR, color='orange', linestyle = 'dashed', label='BHP of storage layer',zorder=0)
-ax2.set_ylabel('Bottom Hole Pressure (bar)')
-ax2.set_xlabel('Time [days]')
-ax2.tick_params('y', colors='black')
-ax2.set_ylim(200,240)
-lines_1, labels_1 = ax2.get_legend_handles_labels()
-lines_2, labels_2 = ax1.get_legend_handles_labels()
-ax1.legend(lines_2+lines_1, labels_2+labels_1, loc='upper left')
-plt.savefig('EnergyIn&Out.pdf',bbox_inches='tight')
-plt.clf()
-
-##########################
-
-##########################
 
 #Efficiency of storage layer
 fig,ax = plt.subplots(figsize=(8,4))
@@ -198,55 +160,116 @@ plt.axhline(y=100, color='black', linestyle='--', label='100% Efficiency')
 plt.xlabel('Time [days]')
 plt.ylabel('Percentage [%]')
 plt.legend()
-plt.savefig('EfficiencyOfStorage.pdf',bbox_inches='tight')
+#plt.savefig('EfficiencyOfStorage.pdf',bbox_inches='tight')
+# plt.show()
+# plt.clf()
+
+#Efficiency of storage layer
+fig,ax1 = plt.subplots(figsize=(8,4))
+set_plot_params(ax1)
+ax1.plot(afTime3, ECT_Xflow_in, color='black', label='Total energy injected into storage layer',zorder=10)
+ax1.plot(afTime3, ECT_Xflow_out, color='black', linestyle='dashed', label='Total energy discharged from storage layer',zorder=10)
+ax1.plot(afTime3,deltaET,color='red',label=r'Energy changed in the storage layaer')
+ax1.set_ylabel('Energy [kWh]', color='black')
+ax1.set_xlabel('Time [days]')
+ax1.tick_params('y')
+#ax1.set_ylim(0, 100)
+ax2 = ax1.twinx()
+ax2.plot(afTime3, RPR, color='orange', linestyle = 'dashed', label='BHP of storage layer',zorder=0)
+ax2.set_ylabel('Bottom Hole Pressure (bar)')
+ax2.set_xlabel('Time [days]')
+ax2.tick_params('y', colors='black')
+ax2.set_ylim(200,240)
+lines_1, labels_1 = ax2.get_legend_handles_labels()
+lines_2, labels_2 = ax1.get_legend_handles_labels()
+ax1.legend(lines_2+lines_1, labels_2+labels_1, loc='upper left')
+# plt.savefig('EnergyIn&Out.pdf',bbox_inches='tight')
 plt.show()
 plt.clf()
 
-#Consumption per day
-fig,ax = plt.subplots(figsize=(8,4))
-set_plot_params(ax)
-plt.plot(afTime1,EC_constantinjection,label=r'HYBRID ENERGY')
-plt.plot(afTime2,EC_periodicinjection,label=r'WIND POWERED')
-#plt.title('Energy Consumption During Water Injection')
-plt.xlabel('Time [days]')
-plt.ylabel('Energy [kWh]')
-plt.legend()
-plt.savefig('ConsumptionPerDayPI.pdf',bbox_inches='tight')
-plt.clf()
+# #Total Consumption
+# plt.plot(afTime1,ECT_constantinjection,color='black',label=r'HYBRID ENERGY')
+# plt.plot(afTime2,ECT_periodicinjection,color='black',linestyle='dashed', label=r'WIND POWERED')
+# plt.plot(afTime3,ECT_energystorage,color='green',label=r'WIND & STORAGE')
+# plt.title('Total Energy Consumption During Water Injection')
+# plt.xlabel('Time [days]')
+# plt.ylabel('Energy [kWh]')
+# plt.legend()
+# plt.savefig('TotalConsumption.pdf',bbox_inches='tight')
+# plt.clf()
 
-#Consumption per day
-fig,ax = plt.subplots(figsize=(8,4))
-set_plot_params(ax)
-plt.plot(afTime1,EC_constantinjection,label=r'HYBRID ENERGY')
-plt.plot(afTime3,EC_energystorage,label=r'WIND & STORAGE')
-#plt.title('Energy Consumption During Water Injection')
-plt.xlabel('Time [days]')
-plt.ylabel('Energy [kWh]')
-plt.legend()
-plt.savefig('ConsumptionPerDayES.pdf',bbox_inches='tight')
-plt.clf()
+# # Total Consumption per oil
+# fig,ax = plt.subplots(figsize=(8,4))
+# set_plot_params(ax)
+# plt.plot(afTime1,ECT_oil_CI,color='tab:blue', label=r'HYBRID ENERGY')
+# plt.plot(afTime2,ECT_oil_PI,color='orange',label=r'WIND POWERED')
+# plt.plot(afTime3,ECT_oil_ES,color='green',label=r'WIND+STORAGE')
+# #plt.title('Total Energy Consumption Per Produced Oil')
+# plt.xlabel('Time [days]')
+# plt.ylabel('Energy [kWh/sm3]')
+# plt.legend()
+# plt.savefig('TotalConsumptionPerOil.pdf',bbox_inches='tight')
+# plt.clf()
 
-#cross flow rate
-Xflow_inflow_neg = -1 * Xflow_inflow
-fig,ax = plt.subplots(figsize=(8,4))
-set_plot_params(ax)
-plt.plot(afTime3,Xflow_outflow,color='black',linestyle='dashed', label=r'Outflow rate')
-plt.plot(afTime3,Xflow_inflow_neg,color ='black',label=r'Inflow rate')
-plt.xlabel('Time [days]')
-plt.ylabel('Flow rate [sm3/day]')
-plt.legend()
-plt.savefig('XflowRate.pdf',bbox_inches='tight')
-plt.clf()
+# #Total Consumption of storage layer
+# fig,ax = plt.subplots(figsize=(8,4))
+# set_plot_params(ax)
+# plt.plot(afTime3,ECT_Xflow_in,color='black', label=r'Injected Energy')
+# plt.plot(afTime3,ECT_Xflow_out,color='black',linestyle='dashed',label=r'Produced energy')
+# plt.plot(afTime3,deltaET,color='orange',label=r'Energy changed in the storage layaer')
+# #plt.plot(afTime3,deltaT,color='black')
+# plt.xlabel('Time [days]')
+# plt.ylabel('Energy [kWh]')
+# plt.savefig('TotalConsumption_storagelayer.pdf',bbox_inches='tight')
+# plt.legend()
+# plt.show()
+# plt.clf()
 
-excel_file = '../Book_day.xlsx'
-df = pd.read_excel(excel_file)
-fig,ax = plt.subplots(figsize=(8,4))
-set_plot_params(ax)
-plt.plot(df['Day'], df['Normalized average power'], color='steelblue', label=r'Daily Wind Power')
-plt.xlabel('Time [days]')
-plt.ylabel('Normalized average wind power')
-plt.xlim(left=0)
-plt.ylim(bottom=0)
-plt.legend()
-plt.savefig('windpower.pdf',bbox_inches='tight')
-plt.clf()
+# #Consumption per day
+# fig,ax = plt.subplots(figsize=(8,4))
+# set_plot_params(ax)
+# plt.plot(afTime1,EC_constantinjection,label=r'HYBRID ENERGY')
+# plt.plot(afTime2,EC_periodicinjection,label=r'WIND POWERED')
+# #plt.title('Energy Consumption During Water Injection')
+# plt.xlabel('Time [days]')
+# plt.ylabel('Energy [kWh]')
+# plt.legend()
+# plt.savefig('ConsumptionPerDayPI.pdf',bbox_inches='tight')
+# plt.clf()
+
+# #Consumption per day
+# fig,ax = plt.subplots(figsize=(8,4))
+# set_plot_params(ax)
+# plt.plot(afTime1,EC_constantinjection,label=r'HYBRID ENERGY')
+# plt.plot(afTime3,EC_energystorage,label=r'WIND & STORAGE')
+# #plt.title('Energy Consumption During Water Injection')
+# plt.xlabel('Time [days]')
+# plt.ylabel('Energy [kWh]')
+# plt.legend()
+# plt.savefig('ConsumptionPerDayES.pdf',bbox_inches='tight')
+# plt.clf()
+
+# #cross flow rate
+# Xflow_inflow_neg = -1 * Xflow_inflow
+# fig,ax = plt.subplots(figsize=(8,4))
+# set_plot_params(ax)
+# plt.plot(afTime3,Xflow_outflow,color='black',linestyle='dashed', label=r'Outflow rate')
+# plt.plot(afTime3,Xflow_inflow_neg,color ='black',label=r'Inflow rate')
+# plt.xlabel('Time [days]')
+# plt.ylabel('Flow rate [sm3/day]')
+# plt.legend()
+# plt.savefig('XflowRate.pdf',bbox_inches='tight')
+# plt.clf()
+
+# excel_file = '../Book_day.xlsx'
+# df = pd.read_excel(excel_file)
+# fig,ax = plt.subplots(figsize=(8,4))
+# set_plot_params(ax)
+# plt.plot(df['Day'], df['Normalized average power'], color='steelblue', label=r'Daily Wind Power')
+# plt.xlabel('Time [days]')
+# plt.ylabel('Normalized average wind power')
+# plt.xlim(left=0)
+# plt.ylim(bottom=0)
+# plt.legend()
+# plt.savefig('windpower.pdf',bbox_inches='tight')
+# plt.clf()
